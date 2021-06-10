@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali251997&show_icons=true&theme=radical)
 
 
-- 👋 Hi, I’m @sonali251997
+- 👋 Hi, I’m Sonali Prajapati
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML,CSS,JavaScript and Bootstrap
 - 📫 Reach me on my email-id sonali121.kp@gmail.com
