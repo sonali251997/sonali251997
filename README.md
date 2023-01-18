@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Sonali Prajapati
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML,CSS,JavaScript and Bootstrap
+- 🌱 I’m  working on HTML,CSS,JavaScript,Bootstrap and reactjs
 - 📫 Reach me on my email-id sonali121.kp@gmail.com
 
 
